@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260409103751RNLKUJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260409103751QAXLYZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Nuestra aventura en el Bosque Encantado 4D</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmen María Moreno Santiago</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>🌳 ¡Bienvenidos a Nuestra Aventura en el Bosque Encantado 4D!  
+
+En este proyecto te convertirás en un auténtico explorador digital 🧭✨.  
+Tu misión será crear una **revista digital interactiva** sobre nuestro viaje al Bosque Encantado 4D.  
+
+Objetivos:  
+- Desarrollar creatividad y habilidades digitales.  
+- Trabajar contenidos de lengua, matemáticas e inglés de forma divertida.  
+- Fomentar la autonomía y el trabajo en equipo.  
+
+Proyecto digital para que el alumnado de primaria cree una revista interactiva sobre el viaje al Bosque Encantado 4D. Los alumnos organizarán información, redactarán itinerarios, crearán mapas, fotos, collages y mini-reportajes, e incluirán vocabulario en inglés. El proyecto fomenta creatividad, competencias digitales, lingüísticas y trabajo colaborativo, y sirve de referencia para otros docentes.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775681461739</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e93f0920-e0de-44a6-a0eb-e8a4f3d165ff</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e93f0920-e0de-44a6-a0eb-e8a4f3d165ff</odePageId>
+      <odeBlockId>block-1775647260901-aa6m0pmmf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e93f0920-e0de-44a6-a0eb-e8a4f3d165ff</odePageId>
+          <odeBlockId>block-1775647260901-aa6m0pmmf</odeBlockId>
+          <odeIdeviceId>idevice-1775647260898-6mk9aaiao</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🌳 ¡Bienvenidos a Nuestra Aventura en el Bosque Encantado 4D!  </p>
+<p>En este proyecto te convertirás en un auténtico explorador digital 🧭✨.  <br />Tu misión será crear una **revista digital interactiva** sobre nuestro viaje al Bosque Encantado 4D.  </p>
+<p>Objetivos:  <br />- Desarrollar creatividad y habilidades digitales.  <br />- Trabajar contenidos de lengua, matemáticas e inglés de forma divertida.  <br />- Fomentar la autonomía y el trabajo en equipo.  </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775647260898-6mk9aaiao","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🌳 ¡Bienvenidos a Nuestra Aventura en el Bosque Encantado 4D!  </p>\n<p>En este proyecto te convertirás en un auténtico explorador digital 🧭✨.  <br />Tu misión será crear una **revista digital interactiva** sobre nuestro viaje al Bosque Encantado 4D.  </p>\n<p>Objetivos:  <br />- Desarrollar creatividad y habilidades digitales.  <br />- Trabajar contenidos de lengua, matemáticas e inglés de forma divertida.  <br />- Fomentar la autonomía y el trabajo en equipo.  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>e93f0920-e0de-44a6-a0eb-e8a4f3d165ff</odePageId>
+      <odeBlockId>block-1775647270775-jbyqfmsnr</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e93f0920-e0de-44a6-a0eb-e8a4f3d165ff</odePageId>
+          <odeBlockId>block-1775647270775-jbyqfmsnr</odeBlockId>
+          <odeIdeviceId>idevice-1775647270774-b1zyu998q</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775647270774-b1zyu998q" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-03-11 at 13.57.15.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-03-11 at 13.57.15.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775647270774-b1zyu998q","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-03-11 at 13.57.15.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-03-11 at 13.57.15.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y uso responsable de internet</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y uso responsable de internet</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+      <odeBlockId>block-1775647338055-am4dr8b1v</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+          <odeBlockId>block-1775647338055-am4dr8b1v</odeBlockId>
+          <odeIdeviceId>idevice-1775647338052-up3p67q9c</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://canva.link/thukwytnxcx59w8" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+      <odeBlockId>block-1775647484342-75h1pdo4w</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+          <odeBlockId>block-1775647484342-75h1pdo4w</odeBlockId>
+          <odeIdeviceId>idevice-1775647484337-zgh6kzuyh</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775647484337-zgh6kzuyh" title="" href="{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775647484337-zgh6kzuyh","img_0":{"img":"{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation.png","thumbnail":"{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+      <odeBlockId>block-1775680289670-t1cm6ez6e</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775647329989-zhlhwbs14</odePageId>
+          <odeBlockId>block-1775680289670-t1cm6ez6e</odeBlockId>
+          <odeIdeviceId>idevice-1775680289664-q4tpxpiu7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775647685734-dhkxacogw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final: nuestra revista digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final: nuestra revista digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775647685734-dhkxacogw</odePageId>
+      <odeBlockId>block-1775647704998-wh3gijmcu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775647685734-dhkxacogw</odePageId>
+          <odeBlockId>block-1775647704998-wh3gijmcu</odeBlockId>
+          <odeIdeviceId>idevice-1775647704994-egnux6l8w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🧩 Reto: Crear una revista digital en Canva llamada "Nuestra aventura en el Bosque Encantado 4D".  </p>
+<p>📖 Tu revista debe incluir:  <br />- Itinerario del viaje (día a día)  <br />- Actividades realizadas  <br />- Menú del viaje  <br />- Mapas o dibujos del lugar  <br />- Curiosidades del Bosque Encantado  <br />- Mini-reportajes, entrevistas inventadas o collages  <br />- Palabras y frases en inglés  </p>
+<p>💻 Herramienta: Canva (fácil, intuitiva y adaptable para primaria)  </p>
+<p>🌟 Objetivos educativos:  <br />- Expresarte creativamente 🎨  <br />- Trabajar en equipo 🤝  <br />- Usar herramientas digitales 💻  <br />- Organizar información 📚</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775647704994-egnux6l8w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🧩 Reto: Crear una revista digital en Canva llamada \"Nuestra aventura en el Bosque Encantado 4D\".  </p>\n<p>📖 Tu revista debe incluir:  <br />- Itinerario del viaje (día a día)  <br />- Actividades realizadas  <br />- Menú del viaje  <br />- Mapas o dibujos del lugar  <br />- Curiosidades del Bosque Encantado  <br />- Mini-reportajes, entrevistas inventadas o collages  <br />- Palabras y frases en inglés  </p>\n<p>💻 Herramienta: Canva (fácil, intuitiva y adaptable para primaria)  </p>\n<p>🌟 Objetivos educativos:  <br />- Expresarte creativamente 🎨  <br />- Trabajar en equipo 🤝  <br />- Usar herramientas digitales 💻  <br />- Organizar información 📚</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775647738578-xxvdn1jjn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para aprender a crear</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para aprender a crear</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775647738578-xxvdn1jjn</odePageId>
+      <odeBlockId>block-1775647740324-fu58hilum</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775647738578-xxvdn1jjn</odePageId>
+          <odeBlockId>block-1775647740324-fu58hilum</odeBlockId>
+          <odeIdeviceId>idevice-1775647740322-4as1aesuq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📚 Recursos para el alumnado: Padlet<br />Enlace: https://padlet.com/cmorsan359_1/recursos-para-crear-nuestra-revista-digital-del-viaje-zv4otmqzsdjrkwsf  </p>
+<p>🧠 Recursos para docentes: Wakelet<br />Enlace: https://wakelet.com/wake/ah1f_IOtA7lI_aDTUjnoc  </p>
+<p>🔹 Todos los recursos han sido seleccionados y organizados para facilitar el trabajo autónomo y la inspiración de otros docentes.<br />🔹 Formatos variados para atender diversidad y distintos estilos de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775647740322-4as1aesuq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📚 Recursos para el alumnado: Padlet<br />Enlace: https://padlet.com/cmorsan359_1/recursos-para-crear-nuestra-revista-digital-del-viaje-zv4otmqzsdjrkwsf  </p>\n<p>🧠 Recursos para docentes: Wakelet<br />Enlace: https://wakelet.com/wake/ah1f_IOtA7lI_aDTUjnoc  </p>\n<p>🔹 Todos los recursos han sido seleccionados y organizados para facilitar el trabajo autónomo y la inspiración de otros docentes.<br />🔹 Formatos variados para atender diversidad y distintos estilos de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775647787476-pfsobnw5k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775647787476-pfsobnw5k</odePageId>
+      <odeBlockId>block-1775679734929-iqe8uih0f</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775647787476-pfsobnw5k</odePageId>
+          <odeBlockId>block-1775679734929-iqe8uih0f</odeBlockId>
+          <odeIdeviceId>idevice-1775679734924-t3oduh7ko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100.036%;" border="1">
+<tbody>
+<tr>
+<td style="width: 19.9746%;">TAREA</td>
+<td style="width: 19.9746%;">CRITERIO DE<br />EVALUACIÓN</td>
+<td style="width: 19.9746%;">AGRUPAMIENTO</td>
+<td style="width: 19.976%;">TIEMPO<br />APROXIMADO</td>
+<td style="width: 19.9746%;">HERRAMIENTA QUE SE LE<br />SUGERIRÁ AL ALUMNADO</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">Crear portada de la revista con título,<br />imagen y fecha</td>
+<td style="width: 19.9746%;">Competencia digital y<br />artística: creatividad,<br />composición y<br />presentación visual<br />adecuada</td>
+<td style="width: 19.9746%;">Individual</td>
+<td style="width: 19.976%;">30-40 min</td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">Redactar el itinerario del viaje día a día</td>
+<td style="width: 19.9746%;">Competencia<br />lingüística: claridad en<br />la exposición,<br />coherencia textual y<br />ortografía</td>
+<td style="width: 19.9746%;">Individual o parejas</td>
+<td style="width: 19.976%;">45 minutos</td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">ncluir fotos, dibujos o collages de<br />actividades</td>
+<td style="width: 19.9746%;">Competencia artística y<br />digital: uso creativo de<br />imágenes y<br />composición visual</td>
+<td style="width: 19.9746%;">Grupos de 3-4</td>
+<td style="width: 19.976%;">45 minutos</td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">Elaborar un mini-reportaje o entrevista<br />inventada</td>
+<td style="width: 19.9746%;">Competencia lingüística<br />y social: expresión<br />escrita, creatividad y<br />empatía al crear<br />personajes o<br />entrevistas</td>
+<td style="width: 19.9746%;">Individual</td>
+<td style="width: 19.976%;">40 minutos</td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">Crear mapas ilustrados del Bosque<br />Encantado</td>
+<td style="width: 19.9746%;">Competencia matemática y digital:<br />representación<br />espacial, síntesis de<br />información y<br />presentación visual</td>
+<td style="width: 19.9746%;">Grupos de 2-3</td>
+<td style="width: 19.976%;">30 minutos </td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">Añadir vocabulario o frases en inglés<br />relacionadas con las actividades</td>
+<td style="width: 19.9746%;">Competencia en lengua<br />extranjera: correcta<br />utilización del idioma en contexto</td>
+<td style="width: 19.9746%;">Individual</td>
+<td style="width: 19.976%;"> <br />20-30 minutos</td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9746%;">Revisar y editar la revista digital final</td>
+<td style="width: 19.9746%;">Competencia digital,<br />lingüística y de<br />autonomía: corrección<br />de errores, cohesión,<br />autoevaluación y mejora del producto<br />final</td>
+<td style="width: 19.9746%;">Individual o parejas</td>
+<td style="width: 19.976%;">30 minutos</td>
+<td style="width: 19.9746%;">Canva</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775679734924-t3oduh7ko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100.036%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 19.9746%;\">TAREA</td>\n<td style=\"width: 19.9746%;\">CRITERIO DE<br />EVALUACIÓN</td>\n<td style=\"width: 19.9746%;\">AGRUPAMIENTO</td>\n<td style=\"width: 19.976%;\">TIEMPO<br />APROXIMADO</td>\n<td style=\"width: 19.9746%;\">HERRAMIENTA QUE SE LE<br />SUGERIRÁ AL ALUMNADO</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">Crear portada de la revista con título,<br />imagen y fecha</td>\n<td style=\"width: 19.9746%;\">Competencia digital y<br />artística: creatividad,<br />composición y<br />presentación visual<br />adecuada</td>\n<td style=\"width: 19.9746%;\">Individual</td>\n<td style=\"width: 19.976%;\">30-40 min</td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">Redactar el itinerario del viaje día a día</td>\n<td style=\"width: 19.9746%;\">Competencia<br />lingüística: claridad en<br />la exposición,<br />coherencia textual y<br />ortografía</td>\n<td style=\"width: 19.9746%;\">Individual o parejas</td>\n<td style=\"width: 19.976%;\">45 minutos</td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">ncluir fotos, dibujos o collages de<br />actividades</td>\n<td style=\"width: 19.9746%;\">Competencia artística y<br />digital: uso creativo de<br />imágenes y<br />composición visual</td>\n<td style=\"width: 19.9746%;\">Grupos de 3-4</td>\n<td style=\"width: 19.976%;\">45 minutos</td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">Elaborar un mini-reportaje o entrevista<br />inventada</td>\n<td style=\"width: 19.9746%;\">Competencia lingüística<br />y social: expresión<br />escrita, creatividad y<br />empatía al crear<br />personajes o<br />entrevistas</td>\n<td style=\"width: 19.9746%;\">Individual</td>\n<td style=\"width: 19.976%;\">40 minutos</td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">Crear mapas ilustrados del Bosque<br />Encantado</td>\n<td style=\"width: 19.9746%;\">Competencia matemática y digital:<br />representación<br />espacial, síntesis de<br />información y<br />presentación visual</td>\n<td style=\"width: 19.9746%;\">Grupos de 2-3</td>\n<td style=\"width: 19.976%;\">30 minutos </td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">Añadir vocabulario o frases en inglés<br />relacionadas con las actividades</td>\n<td style=\"width: 19.9746%;\">Competencia en lengua<br />extranjera: correcta<br />utilización del idioma en contexto</td>\n<td style=\"width: 19.9746%;\">Individual</td>\n<td style=\"width: 19.976%;\"> <br />20-30 minutos</td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9746%;\">Revisar y editar la revista digital final</td>\n<td style=\"width: 19.9746%;\">Competencia digital,<br />lingüística y de<br />autonomía: corrección<br />de errores, cohesión,<br />autoevaluación y mejora del producto<br />final</td>\n<td style=\"width: 19.9746%;\">Individual o parejas</td>\n<td style=\"width: 19.976%;\">30 minutos</td>\n<td style=\"width: 19.9746%;\">Canva</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775649306912-1yn7c4frq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775649306912-1yn7c4frq</odePageId>
+      <odeBlockId>block-1775649329991-fyzenzusg</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775649306912-1yn7c4frq</odePageId>
+          <odeBlockId>block-1775649329991-fyzenzusg</odeBlockId>
+          <odeIdeviceId>idevice-1775649329991-3b79stdqn</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775649329991-3b79stdqn" title="" href="{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation(1).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation(1).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775649329991-3b79stdqn","img_0":{"img":"{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation(1).png","thumbnail":"{{context_path}}/content/resources/Colorful and White Illustrated Business Timeline Presentation(1).png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775649306912-1yn7c4frq</odePageId>
+      <odeBlockId>block-1775649427583-3nq9ycpwd</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775649306912-1yn7c4frq</odePageId>
+          <odeBlockId>block-1775649427583-3nq9ycpwd</odeBlockId>
+          <odeIdeviceId>idevice-1775649427578-sa1kh5occ</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://canva.link/5c4knmx7vo13yus" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775680376042-fjvvi6apd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación del proyecto</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775680376042-fjvvi6apd</odePageId>
+      <odeBlockId>block-1775680382969-3b1hxctkk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775680376042-fjvvi6apd</odePageId>
+          <odeBlockId>block-1775680382969-3b1hxctkk</odeBlockId>
+          <odeIdeviceId>idevice-1775680382967-ros9lgpfr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Rúbrica de evaluación del producto final<br />La rúbrica se utilizará al finalizar el proyecto para evaluar la revista digital que el alumnado elaborará con<br />la herramienta Canva.<br />Con este instrumento se valorarán aspectos como la organización de la información, la creatividad del<br />diseño, el uso de imágenes y recursos digitales y la expresión escrita. También permitirá comprobar si el<br />alumnado ha incluido vocabulario o frases en inglés relacionadas con las actividades.<br />Los datos se obtendrán mediante la observación del producto final presentado por el alumnado. Esta<br />información permitirá valorar el nivel alcanzado en el proyecto y ofrecer retroalimentación sobre los<br />aspectos que han realizado correctamente y aquellos que pueden mejorar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775680382967-ros9lgpfr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Rúbrica de evaluación del producto final<br />La rúbrica se utilizará al finalizar el proyecto para evaluar la revista digital que el alumnado elaborará con<br />la herramienta Canva.<br />Con este instrumento se valorarán aspectos como la organización de la información, la creatividad del<br />diseño, el uso de imágenes y recursos digitales y la expresión escrita. También permitirá comprobar si el<br />alumnado ha incluido vocabulario o frases en inglés relacionadas con las actividades.<br />Los datos se obtendrán mediante la observación del producto final presentado por el alumnado. Esta<br />información permitirá valorar el nivel alcanzado en el proyecto y ofrecer retroalimentación sobre los<br />aspectos que han realizado correctamente y aquellos que pueden mejorar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775680376042-fjvvi6apd</odePageId>
+      <odeBlockId>block-1775680425427-3n2fl65dr</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775680376042-fjvvi6apd</odePageId>
+          <odeBlockId>block-1775680425427-3n2fl65dr</odeBlockId>
+          <odeIdeviceId>idevice-1775680425422-8h1vizkav</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1775680425422-8h1vizkav%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterio%201%3A%20Organizaci%F3n%20de%20la%20informaci%F3n%20%22%2C%22Criterio%202%3A%20Creatividad%20y%20dise%F1o%20%22%2C%22Criterio%203%3A%20Uso%20de%20recursos%20digitales%22%2C%22Criterio%204%3A%20Expresi%F3n%20escrita%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22En%20proceso%22%2C%22Necesita%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20muy%20bien%20organizada%20y%20es%20f%E1cil%20de%20comprender%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20bastante%20clara%20%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Hay%20algunos%20problemas%20de%20organizaci%F3n%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20confusa%20%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22DIse%F1o%20muy%20atractivo%20y%20original%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Dise%F1o%20adecuado%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Dise%F1o%20poco%20variado%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Dise%F1o%20muy%20simple%20%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20im%E1genes%20y%20elementos%20digitales%20de%20forma%20adecuada%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Usa%20algunos%20recursos%20digitales%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Uso%20limitado%20de%20recursos%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Apenas%20utiliza%20recursos%20digitales%20%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20presenta%20errores%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20pocos%20errores%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Presenta%20algunos%20errores%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Presenta%20bastantes%20errores%20%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterio%201%3A%20Organizaci%F3n%20de%20la%20informaci%F3n%20%22%2C%22Criterio%202%3A%20Creatividad%20y%20dise%F1o%20%22%2C%22Criterio%203%3A%20Uso%20de%20recursos%20digitales%22%2C%22Criterio%204%3A%20Expresi%F3n%20escrita%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22En%20proceso%22%2C%22Necesita%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20muy%20bien%20organizada%20y%20es%20f%E1cil%20de%20comprender%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20bastante%20clara%20%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Hay%20algunos%20problemas%20de%20organizaci%F3n%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20confusa%20%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22DIse%F1o%20muy%20atractivo%20y%20original%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Dise%F1o%20adecuado%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Dise%F1o%20poco%20variado%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Dise%F1o%20muy%20simple%20%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20im%E1genes%20y%20elementos%20digitales%20de%20forma%20adecuada%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Usa%20algunos%20recursos%20digitales%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Uso%20limitado%20de%20recursos%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Apenas%20utiliza%20recursos%20digitales%20%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20presenta%20errores%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20pocos%20errores%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Presenta%20algunos%20errores%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Presenta%20bastantes%20errores%20%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775681303308-6b332uo10</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775681303308-6b332uo10</odePageId>
+      <odeBlockId>block-1775681305537-0d7ztadmd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775681303308-6b332uo10</odePageId>
+          <odeBlockId>block-1775681305537-0d7ztadmd</odeBlockId>
+          <odeIdeviceId>idevice-1775681305535-aar2mhik4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>✏️ GUÍA DIDÁCTICA<br />1. Descripción del proyecto<br />Este proyecto, titulado “Nuestra aventura en el Bosque Encantado 4D”, consiste en la creación de una revista digital en la que el alumnado recoge, organiza y presenta la información del viaje a través de diferentes tareas. Para ello, se utiliza la herramienta Canva, fomentando el uso de recursos digitales de forma creativa y significativa.</p>
+<p> <br />2. Metodología<br />Se emplea una metodología activa basada en el aprendizaje por proyectos, donde el alumnado tiene un papel protagonista. Las actividades combinan trabajo individual, en parejas y en grupo, favoreciendo la participación, la autonomía y el aprendizaje cooperativo.</p>
+<p> <br />3. Relación de tareas y criterios de evaluación<br />Tareas del proyecto<br />Criterios de evaluación<br />Creación de portada, itinerario y reportaje<br />Expresión escrita y organización de la información<br />Uso de Canva y herramientas digitales<br />Competencia digital<br />Diseño de mapas, imágenes y collages<br />Creatividad y expresión artística<br />Trabajo en grupo<br />Participación y colaboración<br />Uso de vocabulario en inglés<br />Competencia en lengua extranjera<br /> <br />4. Evaluación<br />La evaluación del proyecto se realiza a través de:</p>
+<p>Rúbrica del producto final (revista digital)<br />Lista de cotejo del proceso de trabajo<br />Autoevaluación del alumnado<br /> <br />5. Atención a la diversidad<br />Se contemplan medidas como el uso de plantillas, el apoyo entre iguales y la adaptación de tareas según el nivel del alumnado, facilitando la participación de todo el grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775681305535-aar2mhik4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>✏️ GUÍA DIDÁCTICA<br />1. Descripción del proyecto<br />Este proyecto, titulado “Nuestra aventura en el Bosque Encantado 4D”, consiste en la creación de una revista digital en la que el alumnado recoge, organiza y presenta la información del viaje a través de diferentes tareas. Para ello, se utiliza la herramienta Canva, fomentando el uso de recursos digitales de forma creativa y significativa.</p>\n<p> <br />2. Metodología<br />Se emplea una metodología activa basada en el aprendizaje por proyectos, donde el alumnado tiene un papel protagonista. Las actividades combinan trabajo individual, en parejas y en grupo, favoreciendo la participación, la autonomía y el aprendizaje cooperativo.</p>\n<p> <br />3. Relación de tareas y criterios de evaluación<br />Tareas del proyecto<br />Criterios de evaluación<br />Creación de portada, itinerario y reportaje<br />Expresión escrita y organización de la información<br />Uso de Canva y herramientas digitales<br />Competencia digital<br />Diseño de mapas, imágenes y collages<br />Creatividad y expresión artística<br />Trabajo en grupo<br />Participación y colaboración<br />Uso de vocabulario en inglés<br />Competencia en lengua extranjera<br /> <br />4. Evaluación<br />La evaluación del proyecto se realiza a través de:</p>\n<p>Rúbrica del producto final (revista digital)<br />Lista de cotejo del proceso de trabajo<br />Autoevaluación del alumnado<br /> <br />5. Atención a la diversidad<br />Se contemplan medidas como el uso de plantillas, el apoyo entre iguales y la adaptación de tareas según el nivel del alumnado, facilitando la participación de todo el grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775681348021-q5dvn1ltz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775681348021-q5dvn1ltz</odePageId>
+      <odeBlockId>block-1775682206776-xzaysseh6</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775681348021-q5dvn1ltz</odePageId>
+          <odeBlockId>block-1775682206776-xzaysseh6</odeBlockId>
+          <odeIdeviceId>idevice-1775682206775-wpvrbbn76</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Nuestra aventura en el Bosque Encantado 4D</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">🌳 ¡Bienvenidos a Nuestra Aventura en el Bosque Encantado 4D!  
+
+En este proyecto te convertirás en un auténtico explorador digital 🧭✨.  
+Tu misión será crear una **revista digital interactiva** sobre nuestro viaje al Bosque Encantado 4D.  
+
+Objetivos:  
+- Desarrollar creatividad y habilidades digitales.  
+- Trabajar contenidos de lengua, matemáticas e inglés de forma divertida.  
+- Fomentar la autonomía y el trabajo en equipo.  
+
+Proyecto digital para que el alumnado de primaria cree una revista interactiva sobre el viaje al Bosque Encantado 4D. Los alumnos organizarán información, redactarán itinerarios, crearán mapas, fotos, collages y mini-reportajes, e incluirán vocabulario en inglés. El proyecto fomenta creatividad, competencias digitales, lingüísticas y trabajo colaborativo, y sirve de referencia para otros docentes.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carmen María Moreno Santiago</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
